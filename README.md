@@ -1,3 +1,4 @@
  - [Wikipedia](http://en.wikipedia.org/wiki/Digital_Postmarks) entry about Electronic PostMark
  - [EPM spec](http://docs.oasis-open.org/dss/v1.0/oasis-dss-profiles-epm-spec-v1.0-os.html)
  - Manual verification of PKCS7 [signing](http://qistoph.blogspot.it/2012/01/manual-verify-pkcs7-signed-data-with.html)
+ - http://parole-italiane.it/digital_postmarks
